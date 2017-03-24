@@ -1,0 +1,2 @@
+# twentyfourx
+TwentyFourX is a creative Web Development and Graphic Design Agency. Built upon the core values of integrity, professionalism, and client satisfaction, TwentyFourX exists to provide cutting-edge technology in Web Development and Graphic Design. We offer customized Web Development and Graphic Design services that blend well with the changing needs and trends in the Information, Communication, and Technological space. Our services extend from Website Design and Development to all kinds of Graphic Design work.
