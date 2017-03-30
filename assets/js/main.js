@@ -44,6 +44,7 @@ $(document).ready(function(){
 	$("#lets").mouseover(function(){
 		$("#lets p").fadeIn();
 	});
+
 });
 
 (function($) {
